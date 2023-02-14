@@ -89,6 +89,7 @@ h6 {
   line-height: 1;
   color: hsl(212, 21%, 14%);
   font-family: "Fraunces", serif;
+  font-size: 2rem;
 }
 .card-type {
   letter-spacing: 6px;
@@ -130,9 +131,6 @@ h6 {
 .btn:hover {
   background-color: rgba(8, 110, 69, 0.733);
 }
-/* .btn > svg {
-  margin-right: 10px;
-} */
 
 .card-sale {
   text-decoration: line-through;
